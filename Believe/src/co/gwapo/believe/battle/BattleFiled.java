@@ -1,6 +1,6 @@
 package co.gwapo.believe.battle;
 
-import java.util.Random;
+import java.util.Random;//dd
 
 import co.gwapo.believe.Status.Hero;
 import co.gwapo.believe.Status.Monster;

@@ -14,7 +14,7 @@ public class GameServiceImpl extends GameDao {
 	private final String MAKEMONSTER = "SELECT * FROM MONSTER WHERE STR + DEX + WIS < ?";
 	private final String SELECTHERO = "SELECT * FROM PLAYER";
 	
-	
+	//dd
 	
 	public Hero selecthero() {
 		try {
